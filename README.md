@@ -1,16 +1,22 @@
-# shayariapp
+# 📝 ShayariApp – Flutter Poetry Application
 
-A new Flutter project.
+**ShayariApp** is a Flutter-based mobile application that allows users to read and share a collection of Shayari (poetry) across various categories. Designed with a clean and intuitive interface, it provides an enjoyable reading experience for poetry enthusiasts.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📱 Features
 
-A few resources to get you started if this is your first Flutter project:
+- 📖 Browse Shayari by categories (e.g., Love, Friendship, Motivation)
+- 🔍 Search for Shayari by keywords
+- 📤 Share Shayari with friends via social media or messaging apps
+- 🎨 Clean and user-friendly UI
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Getting Started
+
+To run this app locally:
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/Darshan-Pipaliya1208/ShayariApp.git
